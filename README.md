@@ -2,7 +2,8 @@
 
 <h2 align="center">Features</h2>
 
-- **Both suport tf.keras 2.0 and keras.**
+- **Support binary and multiclass.**
+- **Both support tf.keras 2.0 and keras.**
 - **Less code.**
 
 <h2 align="center">Install</h2>
