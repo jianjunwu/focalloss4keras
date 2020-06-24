@@ -14,14 +14,14 @@ from setuptools import setup, find_packages
 install_requires = ["tensorflow", "keras"]
 
 setup(
-    name="focal_loss",
-    version="0.0.1",
+    name="focalloss4keras",
+    version="0.0.2",
     python_requires=">=3.5",
     packages=find_packages(),
     author="NICHOLAS WU",
     author_email="nicholas_wu@aliyun.com",
     description="Keras implementation of focal loss. Both suport tf.keras 2.0 and keras.",
-    long_description="See https://github.com/jianjunwu/parallel-map for complete user guide.",
+    long_description="See https://github.com/jianjunwu/focalloss4keras for complete user guide.",
     url="https://github.com/jianjunwu/focalloss4keras",
     install_requires=install_requires,
     license="MIT",
