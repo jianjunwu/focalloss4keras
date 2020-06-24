@@ -12,7 +12,7 @@
 import tensorflow as tf
 from focal_loss.backend import keras, K
 
-__version__ = '0.0.2'
+__version__ = '0.0.3'
 
 
 class FocalLoss(keras.losses.Loss):

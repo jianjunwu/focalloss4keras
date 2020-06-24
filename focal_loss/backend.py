@@ -13,7 +13,7 @@ import os
 import sys
 from distutils.util import strtobool
 
-is_tf_keras = strtobool(os.environ.get('TF_KERAS', '0'))
+is_tf_keras = strtobool(os.environ.get('TF_KERAS', '1'))
 if is_tf_keras:
     import tensorflow.keras as keras
     import tensorflow.keras.backend as K
