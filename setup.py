@@ -15,13 +15,13 @@ install_requires = ["tensorflow", "keras"]
 
 setup(
     name="focalloss4keras",
-    version="0.0.2",
+    version="0.0.3",
     python_requires=">=3.5",
     packages=find_packages(),
     author="NICHOLAS WU",
     author_email="nicholas_wu@aliyun.com",
-    description="Keras implementation of focal loss. Both suport tf.keras 2.0 and keras.",
-    long_description="See https://github.com/jianjunwu/focalloss4keras for complete user guide.",
+    description="Use less Code implement focal loss based on keras . Both suport tf.keras 2.0 and keras.",
+    long_description="Use less Code implement focal loss based on keras . Both suport tf.keras 2.0 and keras. See https://github.com/jianjunwu/focalloss4keras for complete user guide.",
     url="https://github.com/jianjunwu/focalloss4keras",
     install_requires=install_requires,
     license="MIT",

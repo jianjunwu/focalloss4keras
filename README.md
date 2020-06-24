@@ -1,4 +1,4 @@
-# Implementation focal loss based on keras 
+# Use less Code implement focal loss based on keras 
 
 <h2 align="center">Features</h2>
 
